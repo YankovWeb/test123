@@ -11,6 +11,9 @@ function addOne(arg) {
 function sum2(a, b, addOne) {
   return addOne(a + b);
 }
+function sum2(a, b, addOne) {
+  return addOne(a + b);
+}
 
 
 
